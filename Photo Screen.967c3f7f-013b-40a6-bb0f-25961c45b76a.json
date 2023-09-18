@@ -57,6 +57,39 @@
     },
     "children": [
         {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": true,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 20,
+                "Width": 40,
+                "X": 288,
+                "Y": 275,
+                "RelativeX": 288,
+                "RelativeY": 275,
+                "ResizeMode": "STRETCH",
+                "ParentId": "967c3f7f-013b-40a6-bb0f-25961c45b76a",
+                "position": "absolute",
+                "edgeOffsets": 275,
+                "style": {
+                    "position": "absolute",
+                    "left": "46.26666259765625%",
+                    "top": "77.55497556397583%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "85eb8b98-e31a-4d09-9e11-e9811d50b8db",
+            "thunkableVersion": 421,
+            "name": "Switch1"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
@@ -464,10 +497,10 @@
                 "Height": 44,
                 "Width": 244,
                 "Visible": true,
-                "X": 65,
-                "Y": 265,
-                "RelativeX": 65,
-                "RelativeY": 265,
+                "X": 27,
+                "Y": 263,
+                "RelativeX": 27,
+                "RelativeY": 263,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -498,7 +531,7 @@
                 "Disabled": false,
                 "ParentId": "967c3f7f-013b-40a6-bb0f-25961c45b76a",
                 "position": "absolute",
-                "edgeOffsets": 265
+                "edgeOffsets": 263
             },
             "children": [],
             "id": "234fb9e1-4b05-42f0-b219-e49ef7de3fab",
